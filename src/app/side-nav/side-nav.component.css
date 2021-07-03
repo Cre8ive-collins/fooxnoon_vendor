@@ -1,0 +1,39 @@
+*{
+    color: whitesmoke;
+}
+
+.bg{
+    background-color: #fcb800;
+    /* margin-top: 0; */
+    height: 100vh;
+    position: fixed;
+    z-index: 1;
+}
+
+.logo{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+ul li{
+    list-style: none;
+    margin: 15px 0px;
+    padding: 5px 0px; 
+}
+
+
+.active{
+    color: black;
+    padding: 0.8em ; 
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+.active i {
+    color: black;
+}
+
+a:hover{
+    /* font-size: large; */
+    color: whitesmoke;
+}
